@@ -1,0 +1,8 @@
+site_name: 創世記 - 重視家庭
+theme:
+  name: 'material'
+
+nav:
+  - 學生版: student.md
+  - 教師版: teacher.md
+  - 關於本教材: about.md 
