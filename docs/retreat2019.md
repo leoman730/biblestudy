@@ -3,13 +3,13 @@
 
 
 
-* 信仰的传承 [（筆記）](retreat2019/信仰的传承.pdf) [錄音](retreat2019/信仰的传承.m4a)
+* 信仰的传承 [(筆記)](retreat2019/信仰的传承.pdf) [(錄音)](retreat2019/信仰的传承.m4a)
 
-* [信仰传承的可行性](teacher.md)
+* 信仰传承的可行性 [(筆記)](retreat2019/信仰传承的可行性.pdf) [(錄音)](retreat2019/信仰传承的可行性.m4a)
 
-* [亚居拉夫妇的一生》可以仿效的生命](teacher.md)
+* 亚居拉夫妇的一生 [(筆記)](retreat2019/亚居拉夫妇的一生.pdf) [(錄音)](retreat2019/亚居拉夫妇的一生.m4a)
 
-* [Q & A 錄音](teacher.md)
+* [Q & A 錄音](retreat2019/q_and_a.m4a)
 
 
 
