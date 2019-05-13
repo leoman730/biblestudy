@@ -3,6 +3,8 @@ theme:
   name: 'material'
 
 nav:
+  - 創世記 - 重視家庭
   - 學生版: student.md
   - 教師版: teacher.md
   - 關於本教材: about.md 
+  - 伊甸團契退休會2019: retreat2019.md 
